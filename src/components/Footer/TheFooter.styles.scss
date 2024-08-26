@@ -1,0 +1,17 @@
+.main-footer{
+    display: flex;
+    padding: 0;
+}
+
+.footer-item{
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 10px;
+    cursor: pointer;
+}
